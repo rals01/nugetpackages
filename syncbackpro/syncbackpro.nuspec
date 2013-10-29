@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>syncbackpro</id>
+    <title>SyncBackPro</title>
+    <version>6.5.4.0</version>
+    <authors>2BrightSparks</authors>
+    <owners>rals01</owners>
+    <summary>syncbackpro</summary>
+    <description>Easily back-up, restore, and synchronize files. Use on a local drive, network drive, FTP server, ZIP archive, or any removable media.</description>
+    <projectUrl>http://www.2brightsparks.com/syncback/sbpro.html</projectUrl>
+    <tags>syncbackpro backup restore sync synchronize</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.2brightsparks.com/terms.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
