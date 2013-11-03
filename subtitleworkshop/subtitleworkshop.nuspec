@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>subtitleworkshop</id>
+    <title>subtitleworkshop</title>
+    <version>6.0.130825</version>
+    <authors>Andrey Spiridonov</authors>
+    <owners>rals01</owners>
+    <summary>subtitleworkshop</summary>
+    <description>Subtitle Workshop is a free application for creating, editing, and converting text-based subtitle files. </description>
+    <projectUrl>http://subworkshop.sourceforge.net/</projectUrl>
+    <tags>subtitleworkshop subtitle editor subtitles convert</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
