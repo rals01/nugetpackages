@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>eventghost</id>
+    <title>EventGhost</title>
+    <version>0.4.1.1640</version>
+    <authors>EventGhost Project</authors>
+    <owners>rals01</owners>
+    <summary>eventghost</summary>
+    <description>EventGhost is an advanced, easy to use and extensible automation tool for MS Windows. It can use different input devices like infrared or wireless remote controls to trigger macros, that on their part control a computer and its attached hardware. So it can be used to control a Media-PC with a normal consumer remote. But its possible uses go much beyond this.</description>
+    <projectUrl>http://www.eventghost.org/</projectUrl>
+    <tags>eventghost automation remote control macros</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
